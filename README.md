@@ -1,3 +1,17 @@
-> 乔栋（Dong Qiao）
+Welcome！！！
 
-一个人。
+> Education
+
+- 2020–2024, China University of Geosciences (Wuhan), Ph.D.
+- 2017–2020, China University of Geosciences (Wuhan), Master.
+- 2009–2013, China University of Geosciences (Wuhan), Bachelor.
+
+
+
+
+
+> Papers
+
+- Qiao D, Wang G M, Xu M. Fast-charging station location problem: A two-phase approach with mathematical program with equilibrium constraints considering charging choice behaviour. Sustainable Cities and Society, 2023, 96: 104678. https://doi.org/10.1016/j.scs.2023.104678.
+- Qiao D, Wang G M, Xu M. Mathematical program with equilibrium constraints approach with genetic algorithm for joint optimization of charging station location and discrete transport network design. Transportation Letters, 2023: 1-17. https://doi.org/10.1080/19427867.2023.2237740.
+- Qiao D, Wang G M, Xu, M. Mobile charging service optimization for electric vehicles. Transportation Letters, 2025: 1–15. https://doi.org/10.1080/19427867.2024.2448783.
