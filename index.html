@@ -6,7 +6,7 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <!-- 可定制主题 -->
-  <link rel="stylesheet" href="static/docsify/themes/buble.css" title="buble" >
+  <link rel="stylesheet" href="static/docsify/themes/vue.css" title="buble" >
   <link rel="stylesheet" href="static/docsify/themes/vue.css" title="vue" disabled>
   <link rel="stylesheet" href="static/docsify/themes/dark.css" title="dark" disabled>
   <link rel="stylesheet" href="static/docsify/themes/theme-simple.css" title="theme-simple" disabled>
@@ -27,6 +27,9 @@
     :root {
       --base-font-size: 13px;
     }
+	body{
+		font-family:'Arial','宋体'
+	}
 </style>
 </head>
 <body>
@@ -70,7 +73,7 @@
   
       window.$docsify = {
         // 标题
-        name: 'DongQiao',
+        name: 'Dong Qiao',
         //你的logo
         // logo: 'static/img/logo.png',
         //配置仓库地址或者 username/repo 的字符串，会在页面右上角渲染一个 GitHub Corner 挂件
@@ -103,8 +106,8 @@
         },
         // 分页
         pagination: {
-          previousText: '上一篇',
-          nextText: '下一篇',
+          previousText: '',
+          nextText: '',
           crossChapter: true
         },
         // markdown 配置，支持 mermaid
@@ -131,7 +134,7 @@
           placeholder: {
             '/de-de/': 'Suche',
             '/zh-cn/': '搜索',
-            '/': '🔍搜索关键字...'
+            '/': 'Search...'
           },
           // 搜索标题的最大程级, 1 - 6
           depth: 2
