@@ -1,8 +1,1 @@
-- **随感**
-  - [浑浊的水](src/daily/浑浊的水.md)
-  - [初四](src/daily/初四.md)
-  - [明天不散步了](src/daily/明天不散步了.md)
-  - [列车](src/daily/列车.md)
-  - [有限](src/daily/有限.md)
-  - [智识的缺失](src/daily/智识的缺失.md)
-  - [大成若缺](src/daily/大成若缺.md)
+- [**Diary**](src/daily/daily.md)
