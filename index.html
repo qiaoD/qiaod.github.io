@@ -30,29 +30,16 @@
 	body{
 		font-family:'Arial','宋体'
 	}
+	.sidebar {
+		
+	}
 
 </style>
 </head>
 <body>
   <!-- 可以定制导航栏，也可以 load from _navbar.md 或者自定义文件-->
   
-  <nav>
-    <ul>
-      <li>
-        <!--<p id="nav_d">👘主题切换</p>-->
-        <ul class="demo-theme-preview">
-	      <!--
-          <li><a target="_blank" data-theme="vue">vue</a></li>
-          <li><a target="_blank" data-theme="dark">dark</a></li>
-          <li><a target="_blank" data-theme="buble">buble</a></li>
-          <li><a target="_blank" data-theme="theme-simple">simple</a></li>
-          <li><a target="_blank" data-theme="theme-defaults">defaults</a></li>
-		  -->
-        </ul>
-      </li>
-    </ul>
-  </nav>
-  <div id="app">加载中...</div>
+  <div id="app">Loading...</div>
 
   <!-- 本文所用的lib均是截止至2019年6月6日的最新版本，如需使用在线或最新版本，请在//unpkg.com/ 对应目录下获取 -->
   <script src="static/docsify/lib/docsify.min.js"></script>
@@ -60,7 +47,8 @@
   <!-- <script src="static/mermaid/dist/mermaid.min.js"></script> -->
 
   <script>  
-      var preview = Docsify.dom.find('.demo-theme-preview');
+      /*
+	  var preview = Docsify.dom.find('.demo-theme-preview');
       var themes = Docsify.dom.findAll('[rel="stylesheet"]');
 
       preview.onclick = function (e) {
@@ -70,11 +58,12 @@
           theme.disabled = theme.title !== title
         });
       };
+	  */
       // mermaid.initialize({ startOnLoad: false });
   
       window.$docsify = {
         // 标题
-        name: 'D. Qiao',
+        name: '',
         //你的logo
         // logo: 'static/img/logo.png',
         //配置仓库地址或者 username/repo 的字符串，会在页面右上角渲染一个 GitHub Corner 挂件
@@ -89,13 +78,13 @@
         // 启用导航栏load from _navbar.md ,也可以在此页面自定义导航栏
         loadNavbar: false,
         // 自动为每个页面添加标题
-        autoHeader: true,
+        autoHeader: false,
         // 切换页面后是否自动跳转到页面顶部
         auto2top: true,
         // 小屏设备下合并导航栏到侧边栏
         mergeNavbar: true,
         // 你的主题色
-        themeColor: 'rgb(34, 151, 214)',
+        themeColor: 'rgb(0, 0, 0)',
         // 文档编辑日期格式
         formatUpdated: '{YYYY}-{MM}-{DD} {HH}:{mm}:{ss}',
         //加载自定义404页面
