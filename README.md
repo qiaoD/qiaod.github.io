@@ -15,14 +15,6 @@
 3. Qiao D, Wang G M, Xu, M. Mobile charging service optimization for electric vehicles. Transportation Letters, 2025: 1–15. https://doi.org/10.1080/19427867.2024.2448783.
 
 
-
-> Awards
-
-- 2016.05 第三届青年教师讲课竞赛，三等奖
-- 2025.07 中国高校计算机大赛-网络挑战赛，选拔赛三等奖
-- 2025.07 第八届青年教师讲课竞赛，优秀奖
-
-
 > Contact
 
 - QD@llu.edu.cn
