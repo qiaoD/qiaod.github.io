@@ -10,9 +10,10 @@
 
 > Papers
 
-1. Qiao D, Wang G M, Xu M. Fast-charging station location problem: A two-phase approach with mathematical program with equilibrium constraints considering charging choice behaviour. Sustainable Cities and Society, 2023, 96: 104678. https://doi.org/10.1016/j.scs.2023.104678.
-2. Qiao D, Wang G M, Xu M. Mathematical program with equilibrium constraints approach with genetic algorithm for joint optimization of charging station location and discrete transport network design. Transportation Letters, 2023: 1-17. https://doi.org/10.1080/19427867.2023.2237740.
-3. Qiao D, Wang G M, Xu, M. Mobile charging service optimization for electric vehicles. Transportation Letters, 2025: 1–15. https://doi.org/10.1080/19427867.2024.2448783.
+1. Qiao D, Wang G, Xu M. Fast-charging station location problem: A two-phase approach with mathematical program with equilibrium constraints considering charging choice behaviour[J]. Sustainable Cities and Society, 2023, 96: 104678. （DOI: 10.1016/j.scs.2023.104678，SCI一区，IF:13.3）
+2. Qiao D, Wang G, Xu M. Mathematical program with equilibrium constraints approach with genetic algorithm for joint optimization of charging station location and discrete transport network design[J]. Transportation Letters, 2024, 16(7): 776-792. （DOI: 10.1080/19427867.2023.2237740，SCI三区，IF:3.3）
+3. Qiao D, Wang G, Xu M. Mobile charging service optimization for electric vehicles[J]. Transportation Letters, 2025, 17(8): 1375-1389. （DOI: 10.1080/19427867.2024.2448783，SCI三区，IF:3.3）
+4. Qiao D, Wang G, Gao W, et al. Spatial heterogeneity in factors influencing utilization rate of electric vehicle charging stations[J]. Sustainable Cities and Society, 2026, 148: 107647. （DOI: 10.1016/j.scs.2026.107647，SCI一区，IF:13.3）
 
 
 > Contact
